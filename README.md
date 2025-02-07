@@ -1,0 +1,1 @@
+# cch1-template-method-pattern
